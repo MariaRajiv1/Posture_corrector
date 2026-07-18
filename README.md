@@ -113,10 +113,15 @@ Add images here after uploading them.
 
 ---
 
-## Author
+## Authors
 
-**Maria Rajiv**
+This project was developed by:
 
+- Maria Rajiv
+- Neha Savy
+- Pavithra Mohan
+- Surydev G
+  
 B.Tech Electronics and Communication Engineering
 
 Mar Athanasius College of Engineering
