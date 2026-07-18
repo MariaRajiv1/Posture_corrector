@@ -1,0 +1,56 @@
+# Documentation
+
+This folder contains the documentation related to the **Posture Corrector using ATmega328P and MPU6050** project.
+
+## Contents
+
+### Project Report
+The complete project report, including:
+- Abstract
+- Introduction
+- Objectives
+- Literature Review
+- Hardware Components
+- Software Development
+- Circuit Design
+- Working Principle
+- Testing and Results
+- Conclusion
+- Future Scope
+
+**File:** `Project_Report.pdf`
+
+---
+
+### Presentation
+Presentation slides used during the project demonstration and evaluation.
+
+**File:** `Presentation.pdf`
+
+---
+
+### Circuit Diagram
+Electrical schematic of the posture corrector hardware.
+
+**File:** `Circuit_Diagram.pdf`
+
+---
+
+### Block Diagram
+Illustrates the overall architecture and interaction between the hardware components.
+
+**File:** `Block_Diagram.png`
+
+---
+
+### Flowchart
+Shows the logical flow of the posture monitoring and alert algorithm.
+
+**File:** `Flowchart.png`
+
+---
+
+### Demo Video
+A demonstration of the working prototype can be accessed through the provided link.
+
+**File:** `Demo_Video.md`
