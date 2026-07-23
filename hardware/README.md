@@ -12,11 +12,7 @@ Contains the complete circuit schematic of the posture corrector, including the 
 ### 📂 PCB
 Contains the PCB layout, routing, board design files, and 3D renderings used during the hardware development process.
 
-### 📂 Gerbers
-Contains the Gerber and drill files required for PCB fabrication.
 
-### 📂 BOM
-Contains the Bill of Materials (BOM) listing all electronic components used in the project, along with their specifications and quantities.
 
 ## Hardware Specifications
 
