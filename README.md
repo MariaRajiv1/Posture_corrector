@@ -60,11 +60,11 @@ Posture-Corrector/
 ├── hardware/
 │   ├── Schematics/
 │   └── PCB/
-├── gerbers/
+├── Gerbers/
 ├── firmware/
 ├── images/
+├── reports/
 └── results/
-```
 
 ---
 
