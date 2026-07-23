@@ -59,9 +59,8 @@ Posture-Corrector/
 ├── docs/
 ├── hardware/
 │   ├── Schematics/
-│   ├── PCB/
-│   ├── Gerbers/
-│   └── BOM/
+│   └── PCB/
+├── gerbers/
 ├── firmware/
 ├── images/
 └── results/
@@ -70,8 +69,6 @@ Posture-Corrector/
 ---
 
 ## Project Images
-
-Add images here after uploading them.
 
 - Final Device
 - Custom PCB
@@ -120,9 +117,9 @@ This project was developed by:
 - Maria Rajiv
 - Neha Savy
 - Pavithra Mohan
-- Surydev G
+- Suryadev G
   
-B.Tech Electronics and Communication Engineering
+B.Tech in Electronics and Communication Engineering
 
 Mar Athanasius College of Engineering
 
