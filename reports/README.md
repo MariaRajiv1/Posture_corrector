@@ -11,16 +11,9 @@ The reports provide detailed information about the project's objectives, design 
 ### Project Report
 The complete project report, including the problem statement, objectives, literature review, system design, implementation, testing, results, and conclusion.
 
-### Project Proposal
-The initial proposal outlining the project objectives, scope, methodology, and expected outcomes.
-
 ### Presentation
 Presentation slides prepared for project reviews, demonstrations, or evaluations.
 
-### Supporting Documents
-Additional documentation such as block diagrams, flowcharts, circuit diagrams, and other technical references used during the project.
-
----
 
 ## Purpose
 
